@@ -1,0 +1,10 @@
+1- we instlled opencv library and cropped images using it
+2- we iterated through dataset folder and created a clean folder of cropped images
+3- we are now doing feature engineering to extract features from images using wavelet transform 
+4- we converted raw image to wavelet image and stacked it vertically
+5- after data cleaning 
+6- train our model in svm
+7- grid search to try different models and select the best
+8- save trained model
+9- save class dictionary
+   
